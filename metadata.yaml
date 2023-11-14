@@ -1,11 +1,16 @@
 _repo: Pen-and-pencil-sketches-of-Faroe-and-Iceland-b-With-an-appendix-containing-translations-from-__71936
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71936-h/images/cover.jpg
 creator:
   author:
     agent_name: Symington, Andrew James
     gutenberg_agent_id: '56465'
     url: http://www.gutenberg.org/2009/agents/56465
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71936#Pen-and-pencil-sketches-of-Faroe-and-Iceland-b-With-an-appendix-containing-translations-from-_
 gutenberg_issued: '2023-10-23'
 identifiers:
   gutenberg: '71936'
